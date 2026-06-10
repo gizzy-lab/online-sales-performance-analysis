@@ -52,7 +52,7 @@ Electronics generated the highest revenue, accounting for approximately 43% of t
 
 ## Revenue by Region
 
-![Revenue by Region](images/revenue_by_region.png)
+![Revenue by Region](images/revenue by region.png)
 
 North America contributed nearly 46% of total revenue.
 
