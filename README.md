@@ -13,8 +13,19 @@ This analysis explores:
 - Payment method preferences
 - Revenue drivers and business opportunities
 
+## Business Question
+
+What factors drive revenue performance across product categories, regions, and payment methods?
+
 ## Dataset
-- Source: Kaggle
+
+This project uses the Online Sales Dataset – Popular Marketplace Data from Kaggle.
+
+Dataset Link: [Online Sales Dataset – Popular Marketplace Data](https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data)
+
+- Records: 240 transactions
+- Product Categories: 6
+- Regions: North America, Europe, Asia
 
 ## Tools Used
 - Google Sheets
@@ -32,11 +43,44 @@ This analysis explores:
 | Average Revenue per Order |    $335.70 |
 
 ## Key Visualizations
-- Revenue by Product Category
+
+## Revenue by Product Category
+
+![Revenue by Category](images/revenue_by_category.png)
+
+Electronics generated the highest revenue, accounting for approximately 43% of total revenue.
+
+## Revenue by Region
+
+![Revenue by Region](images/revenue_by_region.png)
+
+North America contributed nearly 46% of total revenue.
+
+## Revenue by Payment Method
+
+![Payment Method Revenue](images/payment_method_revenue.png)
+
+Credit card transactions generated approximately 63.5% of total revenue.
+
+## Key Findings
+- Electronics generated 43% of total revenue, making it the top-performing category.
+- Clothing had the highest sales volume but ranked fourth in revenue.
+- North America accounted for 46% of total revenue.
+- Credit cards generated 63.5% of total revenue.
+- Revenue performance varied by both region and product category.
+
+## Business Recommendation
+- Prioritize Electronics products in marketing campaigns.
+- Increase average order value within the Clothing category.
+- Expand successful North American strategies into other markets
+- Continue optimizing the credit card payment experience.
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Validation
+- Exploratory Data Analysis (EDA)
+- Business Insight Generation
+- KPI Reporting
+- Data Visualization
   
 
-
-
-## Business Question
-
-What factors drive revenue performance across product categories, regions, and payment methods?
