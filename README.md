@@ -46,19 +46,19 @@ Dataset Link: [Online Sales Dataset – Popular Marketplace Data](https://www.ka
 
 ## Revenue by Product Category
 
-![Revenue by Category](images/revenue_by_category.png)
+![Revenue by Category](images/Revenue%20by%20Category.png)
 
 Electronics generated the highest revenue, accounting for approximately 43% of total revenue.
 
 ## Revenue by Region
 
-![Revenue by Region](images/revenue by region.png)
+![Revenue by Region](images/Revenue%20by%20Region.png)
 
 North America contributed nearly 46% of total revenue.
 
 ## Revenue by Payment Method
 
-![Payment Method Revenue](images/payment_method_revenue.png)
+![Revenue by Payment Method](images/Revenue%20by%20Payment%20Method.png)
 
 Credit card transactions generated approximately 63.5% of total revenue.
 
