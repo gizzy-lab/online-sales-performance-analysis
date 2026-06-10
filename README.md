@@ -85,7 +85,7 @@ Credit card transactions generated approximately 63.5% of total revenue.
 
 ## Full Report
 
-📄 [View Full Project Report](Online_Sales_Analysis.pdf)
+📄 [View Full Project Report](Online_Sales_Data_Analysis.pdf)
 
 ## About Me
 
