@@ -82,5 +82,9 @@ Credit card transactions generated approximately 63.5% of total revenue.
 - Business Insight Generation
 - KPI Reporting
 - Data Visualization
+
+## About Me
+
+I'm currently building my data analytics portfolio and improving my skills in data cleaning, exploratory data analysis, and business reporting using Google Sheets, SQL, Python, and visualization tools.
   
 
